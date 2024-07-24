@@ -18,3 +18,8 @@ The first three graphs were included in the dashboard display and were linked wi
 The first slicer controlled customer marital status. A user of the dashboard can select "Married" or "Single" and the graphs would automatically update to show data only corresponding to the group selected.
 The second slicer controlled customer region. A user of the dashboard can select "Europe", "North America", or "Pacific" and the graphs would automatically update to show data only corresponding to the group selected.
 The third slicer controlled customer education. A user of the dashboard can select "Partial High School", "High School", "Partial College", "Bachelors", or "Graduate Degree" and the graphs would automatically update to show data only corresponding to the group selected.
+
+A screenshot of how the dashboard is presented in Excel can be seen below:
+
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/bea7a28d-d028-49da-b1b2-7862a2083593">
+
